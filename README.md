@@ -1,0 +1,2 @@
+# LxgwWenKaiToAndroid
+LxgwWenKaiToAndroid.将霞鹜文楷字体以主题包的形式安装到你的手机上
